@@ -7,8 +7,11 @@ The process involves a user uploading an image and selecting the main object by 
 ## Installation
 Clone the repository and then use the provided requirements.txt to install the dependencies:
 
-'''pip install -r requirements.txt'''
+'''
+pip install -r requirements.txt
+'''
 
 ## Samples
 ![Sample Output 1](dragon_inpainting.png)
+
 ![Sample Output 2](monalisa2medusa.png)
