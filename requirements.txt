@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.2.0
+numpy
+Pillow
+requests
+transformers
+diffusers
+accelerate
+gradio==3.40.0
+jupyter
