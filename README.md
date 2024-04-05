@@ -1,4 +1,4 @@
-# AI-Photo-Editing-with-Inpainting
+# AI Photo Editing with Inpainting
 ## About
 In this project I have built a little app that allows user to select a subject and then change its background, OR keep the background and change the subject.
 
